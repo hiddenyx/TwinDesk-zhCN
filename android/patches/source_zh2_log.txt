@@ -1,0 +1,34 @@
+-- Clip.kt: 1 处
+-- Dav.kt: 1 处
+-- FileClip.kt: 2 处
+-- Files.kt: 1 处
+-- FolderShare.kt: 1 处
+-- Guide.kt: 4 处
+-- Hub.kt: 2 处
+-- Input.kt: 3 处
+MainActivity.kt: "Not connected. Connect to ${them(core)} on the Overview page." -> "未连接。请在「概览」页连接到 ${them(core)}。"
+MainActivity.kt: "Answer and make calls on ${host.name}" -> "在 ${host.name} 上接听和拨打电话"
+MainActivity.kt: "Read and send texts on ${host.name}" -> "在 ${host.name} 上读取和发送短信"
+MainActivity.kt: "Browse this phone’s storage on ${host.name}, no ADB" -> "在 ${host.name} 上浏览这台手机的存储，无需 ADB"
+MainActivity.kt: "Allow All files access, so $name can browse this phone’s storage. TwinDesk reads and writes the files itself: no ADB." -> "允许「所有文件访问」，让 $name 能浏览这台手机的存储。TwinDesk 自己读写文件：无需 ADB。"
+MainActivity.kt: "Answer, make and end this phone’s calls on ${them(core)}." -> "在 ${them(core)} 上接听、拨打和挂断这台手机的通话。"
+MainActivity.kt: "Read and send this phone’s texts on ${them(core)}." -> "在 ${them(core)} 上读取和发送这台手机的短信。"
+MainActivity.kt: "See this phone’s photos and videos on ${them(core)} and copy them there." -> "在 ${them(core)} 上查看这台手机的照片和视频，并复制过去。"
+MainActivity.kt: "Browse this phone’s storage on ${them(core)}, and copy files both ways." -> "在 ${them(core)} 上浏览这台手机的存储，并双向复制文件。"
+MainActivity.kt: "This device’s camera on $name: in TwinDesk there, and as a camera its apps can pick." -> "本机摄像头投到 $name：在那边 TwinDesk 中，也可作为其应用可选的摄像头。"
+MainActivity.kt: "This device’s windows are open on $name. Close shuts them" -> "本机的窗口已在 $name 上打开。关闭即结束"
+MainActivity.kt: "Files arriving, invites from $name, and TwinDesk staying connected" -> "文件接收、来自 $name 的邀请，以及 TwinDesk 保持连接"
+MainActivity.kt: "Answer and make calls on $name" -> "在 $name 上接听和拨打电话"
+MainActivity.kt: "Read and send texts on $name" -> "在 $name 上读取和发送短信"
+MainActivity.kt: "Your photos and videos on $name" -> "在 $name 上查看照片和视频"
+MainActivity.kt: "This device’s storage and shared folders on $name, no ADB" -> "在 $name 上访问本机存储和共享文件夹，无需 ADB"
+MainActivity.kt: "Needs TwinDesk with notifications ($name installs it)" -> "需要带通知功能的 TwinDesk（$name 会安装它）"
+MainActivity.kt: "Some access is missing: $hint" -> "部分权限未授予：$hint"
+MainActivity.kt: "To show this device’s notifications on $name" -> "在 $name 上显示本机的通知"
+MainActivity.kt: "Comes with TwinDesk with notifications, which $name installs (its Phone page)" -> "由带通知功能的 TwinDesk 提供，$name 会安装（其「手机」页）"
+MainActivity.kt: "So $name can reach this device any time" -> "这样 $name 可随时连接这台设备"
+-- MainActivity.kt: 77 处
+-- Notify.kt: 1 处
+-- PhoneInfo.kt: 2 处
+-- Remote.kt: 2 处
+-- ShareActivity.kt: 1 处

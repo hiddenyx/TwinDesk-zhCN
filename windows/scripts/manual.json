@@ -1,0 +1,107 @@
+{
+  "exact": {
+    "TwinDesk": "TwinDesk",
+    "OK": "确定",
+    "Cancel": "取消",
+    "Close": "关闭",
+    "Open TwinDesk…": "打开 TwinDesk…",
+    "Quit TwinDesk": "退出 TwinDesk",
+    "Other Computer": "另一台电脑",
+    "Not connected": "未连接",
+    "Not paired": "未配对",
+    "Connected": "已连接",
+    "Disconnected": "已断开",
+    "Connecting…": "连接中…",
+    "Reconnecting…": "正在重新连接…",
+    "Pair again": "重新配对",
+    "Open Log Folder": "打开日志文件夹",
+    "Code": "配对码",
+    "Codes match": "配对码一致",
+    "Pairing": "配对中",
+    "Allow": "允许",
+    "Deny": "拒绝",
+    "Pair": "配对"
+  },
+  "patterns": [
+    [
+      "Pairing… Confirm the code on {0} and on {1}",
+      "配对中… 请在 {0} 和 {1} 上确认配对码"
+    ],
+    [
+      "{0} is on the USB cable. Click Allow to pair.",
+      "{0} 已通过 USB 连接。点击“允许”即可配对。"
+    ],
+    [
+      "TwinDesk on {0} asks to pair with this PC. Press Pair there, then compare the codes.",
+      "{0} 上的 TwinDesk 请求与本机配对。请在那边点击“配对”，然后核对配对码。"
+    ],
+    [
+      "Connecting to {0}…",
+      "正在连接到 {0}…"
+    ],
+    [
+      "Waiting for {0}…",
+      "正在等待 {0}…"
+    ],
+    [
+      "Waiting for Allow on {0}…",
+      "正在等待在 {0} 上点击“允许”…"
+    ],
+    [
+      "Check that {0} shows the same code, then click Codes match.",
+      "请确认 {0} 上显示的配对码相同，然后点击“配对码一致”。"
+    ],
+    [
+      "Check that {0} shows the same code, then click Allow.",
+      "请确认 {0} 上显示的配对码相同，然后点击“允许”。"
+    ],
+    [
+      "Pairing with {0}",
+      "正在与 {0} 配对"
+    ],
+    [
+      "{0} wants to pair",
+      "{0} 请求配对"
+    ],
+    [
+      "Connected to {0}",
+      "已连接到 {0}"
+    ],
+    [
+      "TwinDesk: {0}",
+      "TwinDesk：{0}"
+    ],
+    [
+      "Lock Cursor on {0} ({1})",
+      "在 {0} 上锁定光标（{1}）"
+    ],
+    [
+      "Use Mouse and Keyboard on {0}",
+      "在 {0} 上使用鼠标和键盘"
+    ],
+    [
+      "Let {0} Control {1}",
+      "让 {0} 控制 {1}"
+    ],
+    [
+      "Connected to {0} · {1} ms",
+      "已连接到 {0} · {1} ms"
+    ],
+    [
+      "{0} ms",
+      "{0} ms"
+    ],
+    [
+      "{0}%",
+      "{0}%"
+    ],
+    [
+      "{0} of {1}",
+      "{1} 分之 {0}"
+    ],
+    [
+      "{0} / {1}",
+      "{0} / {1}"
+    ]
+  ]
+}

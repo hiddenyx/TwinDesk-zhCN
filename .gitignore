@@ -1,0 +1,9 @@
+# 构建产物与本地环境
+android/app/build/
+android/build/
+android/.gradle/
+android/.kotlin/
+android/local.properties
+*.log
+*.zip
+*.idsig
