@@ -7,3 +7,5 @@ android/local.properties
 *.log
 *.zip
 *.idsig
+# 本地备忘，不推送
+PUBLISH_TODO.md
